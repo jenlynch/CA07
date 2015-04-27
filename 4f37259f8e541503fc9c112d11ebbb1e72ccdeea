@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_f439f4a4",
+        "filename": "Trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1004778
+      },
+      "writtenOn": "2015-04-27T18:22:38Z",
+      "side": 1,
+      "message": "Comment not needed.",
+      "range": {
+        "startLine": 14,
+        "startChar": 11,
+        "endLine": 14,
+        "endChar": 12
+      },
+      "revId": "4f37259f8e541503fc9c112d11ebbb1e72ccdeea",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_b4bc9c07",
+        "filename": "Trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1004778
+      },
+      "writtenOn": "2015-04-27T18:22:38Z",
+      "side": 1,
+      "message": "Too much information. Code should speak for itself at this level. Also it is at the bottom of the method.",
+      "range": {
+        "startLine": 47,
+        "startChar": 2,
+        "endLine": 53,
+        "endChar": 11
+      },
+      "revId": "4f37259f8e541503fc9c112d11ebbb1e72ccdeea",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_1445b016",
+        "filename": "Trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 1004778
+      },
+      "writtenOn": "2015-04-27T18:22:38Z",
+      "side": 1,
+      "message": "Consider changing for better readability.",
+      "range": {
+        "startLine": 110,
+        "startChar": 40,
+        "endLine": 110,
+        "endChar": 41
+      },
+      "revId": "4f37259f8e541503fc9c112d11ebbb1e72ccdeea",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
