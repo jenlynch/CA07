@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_6e25305b",
+        "filename": "Client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1004769
+      },
+      "writtenOn": "2015-04-28T13:44:30Z",
+      "side": 1,
+      "message": "unnecessary comments describe the obvious",
+      "range": {
+        "startLine": 25,
+        "startChar": 2,
+        "endLine": 25,
+        "endChar": 22
+      },
+      "revId": "81e95343098e0f7f90531349241fe0c99ebd7861",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_ee180020",
+        "filename": "Client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1004769
+      },
+      "writtenOn": "2015-04-28T13:44:30Z",
+      "side": 1,
+      "message": "unnecessary comments describe the obvious",
+      "range": {
+        "startLine": 41,
+        "startChar": 2,
+        "endLine": 41,
+        "endChar": 35
+      },
+      "revId": "81e95343098e0f7f90531349241fe0c99ebd7861",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
