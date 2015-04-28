@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_0edbdc50",
+        "filename": "Market/Market.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1004769
+      },
+      "writtenOn": "2015-04-28T13:47:02Z",
+      "side": 1,
+      "message": "This name isn\u0027t descriptive. Maybe change to stock or something similar.",
+      "range": {
+        "startLine": 67,
+        "startChar": 8,
+        "endLine": 67,
+        "endChar": 9
+      },
+      "revId": "f688be008683a470fa8d427f12ff53cc84e56501",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
