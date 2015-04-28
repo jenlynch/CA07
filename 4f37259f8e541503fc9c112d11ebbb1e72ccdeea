@@ -25,6 +25,52 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_ce6704b6",
+        "filename": "Trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1004769
+      },
+      "writtenOn": "2015-04-28T13:39:49Z",
+      "side": 1,
+      "message": "These comments are unnecessary because the variable name is good enough.",
+      "range": {
+        "startLine": 16,
+        "startChar": 1,
+        "endLine": 16,
+        "endChar": 34
+      },
+      "revId": "4f37259f8e541503fc9c112d11ebbb1e72ccdeea",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_4e13140d",
+        "filename": "Trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1004769
+      },
+      "writtenOn": "2015-04-28T13:39:49Z",
+      "side": 1,
+      "message": "position isn\u0027t a great variable name because it doesn\u0027t describe the arraylist well. If you make this name better, you can get rid of the comments.",
+      "range": {
+        "startLine": 18,
+        "startChar": 1,
+        "endLine": 19,
+        "endChar": 27
+      },
+      "revId": "4f37259f8e541503fc9c112d11ebbb1e72ccdeea",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_b4bc9c07",
         "filename": "Trader/Trader.java",
         "patchSetId": 1
