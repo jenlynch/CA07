@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_cc009f36",
+        "filename": "Market/MarketHistory.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1004824
+      },
+      "writtenOn": "2015-04-29T23:49:07Z",
+      "side": 1,
+      "message": "Vague variable name, consider naming it something with meaning such as \"market\"",
+      "range": {
+        "startLine": 16,
+        "startChar": 8,
+        "endLine": 16,
+        "endChar": 10
+      },
+      "revId": "140a539dba58518f2ef6e234d8b34147c3ca63f9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
