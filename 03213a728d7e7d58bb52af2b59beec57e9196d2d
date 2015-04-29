@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_118bf068",
+        "filename": "Trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 1004770
+      },
+      "writtenOn": "2015-04-29T20:57:44Z",
+      "side": 1,
+      "message": "This is a little unclear as far as what the \u0027other method\u0027 is. It could be removed, or some more information could be added.",
+      "range": {
+        "startLine": 96,
+        "startChar": 2,
+        "endLine": 96,
+        "endChar": 68
+      },
+      "revId": "03213a728d7e7d58bb52af2b59beec57e9196d2d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_11e2d02e",
+        "filename": "Trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 1004770
+      },
+      "writtenOn": "2015-04-29T20:57:44Z",
+      "side": 1,
+      "message": "This could be reformatted into a javadoc comment",
+      "range": {
+        "startLine": 136,
+        "startChar": 2,
+        "endLine": 138,
+        "endChar": 24
+      },
+      "revId": "03213a728d7e7d58bb52af2b59beec57e9196d2d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
