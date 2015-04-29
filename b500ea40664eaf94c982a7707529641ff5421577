@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_112f7089",
+        "filename": "Market/Market.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1004770
+      },
+      "writtenOn": "2015-04-29T20:52:41Z",
+      "side": 1,
+      "message": "This is a minor issue, but the white space here could be removed.",
+      "range": {
+        "startLine": 35,
+        "startChar": 15,
+        "endLine": 36,
+        "endChar": 4
+      },
+      "revId": "b500ea40664eaf94c982a7707529641ff5421577",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
