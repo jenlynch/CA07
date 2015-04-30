@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "1a106d94_837af574",
+        "filename": "Order/OrderBook.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1004794
+      },
+      "writtenOn": "2015-04-30T01:26:26Z",
+      "side": 1,
+      "message": "Variable name should be priceSetter to make the name reflect the object type.",
+      "range": {
+        "startLine": 12,
+        "startChar": 1,
+        "endLine": 12,
+        "endChar": 16
+      },
+      "revId": "836f73d9caf8636c91aaddd906b7560a7698cce1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_6c652b1d",
         "filename": "Order/OrderBook.java",
         "patchSetId": 3
